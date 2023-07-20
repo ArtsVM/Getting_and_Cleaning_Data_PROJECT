@@ -34,7 +34,7 @@ This file serves as a code book that describes the variables, the data, and any 
 
 To run the data cleaning and tidying process, follow these steps:
 
-1. Ensure you have R and RStudio installed on your system.
+1. Ensure you have R and RStudio installed on your system (v4.3.1).
 
 2. Clone this repository to your local machine.
 
